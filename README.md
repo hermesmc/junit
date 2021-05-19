@@ -1,6 +1,6 @@
 ![Junit](https://user-images.githubusercontent.com/49697760/118805750-a9d9a280-b87c-11eb-8231-ed9eabec4bc7.jpg)
 
-## Lembretes do estudo sobre junit no Alura
+## Lembretes do estudo sobre JUnit no Alura
 
 ### O que é JUnit?
 
